@@ -1,0 +1,10 @@
+package java005_number_triangle;
+
+public class NumberTriangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

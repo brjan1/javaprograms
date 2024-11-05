@@ -1,0 +1,10 @@
+package java003_decreasing_triangle;
+
+public class DecreasingTriangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

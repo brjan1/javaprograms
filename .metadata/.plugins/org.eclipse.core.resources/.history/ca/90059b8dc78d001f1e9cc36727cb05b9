@@ -1,0 +1,12 @@
+package stringinput;
+
+public class StringInputDemo {
+
+	public static void main(String[] args) {
+		
+		Scanner scr = new Scanner(System.in);
+		
+
+	}
+
+}

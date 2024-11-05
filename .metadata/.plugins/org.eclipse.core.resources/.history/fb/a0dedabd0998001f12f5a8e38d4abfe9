@@ -1,0 +1,15 @@
+package chapter16_String_Characters_Programs;
+
+public class StringMethods_replace_toLowerCase_toUpperCase_trim_toCharArray {
+
+	public static void main(String[] args) {
+		
+		String s1 = "hello";
+		String s2 = "GOODBYE";
+		String s3 = "   spaces   ";
+		
+		
+
+	}
+
+}

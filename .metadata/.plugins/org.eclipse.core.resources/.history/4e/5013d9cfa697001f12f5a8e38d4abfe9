@@ -1,0 +1,11 @@
+package chapter16_String_Characters_Programs;
+
+public class StringMethods_length_charAt_getChars {
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

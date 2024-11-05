@@ -1,0 +1,16 @@
+package chapter16_String_Characters_Programs;
+
+public class StringMethods_length_charAt_getChars {
+
+	public static void main(String[] args) {
+		
+		String s1 = "hello there";
+		char[] charArray = new char[5];
+		System.out.println("s1 : " + s1);
+		
+		//test length method
+		System.out.println(s1.length());
+
+	}
+
+}

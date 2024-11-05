@@ -1,0 +1,10 @@
+package java004_butterfly_pattern;
+
+public class Butterfly_Pattern {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

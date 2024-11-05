@@ -1,0 +1,19 @@
+package java009_l_al_puzzles_typesafety_removingintegers;
+
+import java.util.List;
+
+public class List_AL_TypeSafety_And_RemovingIntegers {
+
+	public static void main(String[] args) {
+		
+		List value = List.of("A", 'A', 1, 1.0);
+		System.out.println(value);
+		
+		System.out.println("value.get(2): " + value.get(2));
+		
+		System.out.println("value.get(2) instanceOf Integer: ");
+		System.out.print((value.get(2))instanceof Integer);
+
+	}
+
+}

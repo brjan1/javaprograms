@@ -1,0 +1,17 @@
+package java002_insert_string_in_another_string;
+
+public class InsertStringInAnotherString {
+	
+	public static String insertString(String originalStr, String strToInsert, int index) {
+		
+		
+		return null;
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

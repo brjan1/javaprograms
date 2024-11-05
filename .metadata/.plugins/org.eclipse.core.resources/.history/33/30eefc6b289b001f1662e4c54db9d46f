@@ -1,0 +1,35 @@
+package java000_solvestringandcharacterprogramsNotes;
+
+public class SolveStringAndCharacterProgramsNotes {
+
+	/**
+	 * Solve String Programs
+	 * 
+	 * Charcater Programs
+	 * 
+	 * Printing characters:
+	 * ASCII values
+	 * Only Uppercase
+	 * Only Lowercase
+	 * Only Digits
+	 * Remove Spaces
+	 * 
+	 * Counting characters:
+	 * Count Uppercase
+	 * Lowercase
+	 * Digits
+	 * Vowels
+	 * Any character
+	 * 
+	 * Creating new String:
+	 * Reverse the String
+	 * Check Palindrome
+	 * Extract Digits
+	 * Extract Alphabets
+	 * Reverse Case
+	 * Encoding - Piglatin
+	 * 
+	 * 
+	 */
+
+}

@@ -1,0 +1,11 @@
+package java010_l_al_sorting_introduction_to_collections_sort_static;
+
+import java.util.List;
+
+public class StudentsCollectionRunner {
+	
+	List<Student> students = List.of(new Student(1, "Ranga"),
+			new Student(100, "Adam"),
+			new Student(2, "Eve"));
+
+}

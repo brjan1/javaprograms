@@ -1,0 +1,11 @@
+package chapter16_String_Characters_Programs;
+
+public class StringValidateInput {
+
+	public static void main(String[] args) {
+	
+		
+
+	}
+
+}

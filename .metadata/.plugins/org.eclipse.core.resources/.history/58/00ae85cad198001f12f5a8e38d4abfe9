@@ -1,0 +1,14 @@
+package chapter16_String_Characters_Programs;
+
+import java.util.Scanner;
+
+public class StringTokenizerDemo {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+
+	}
+
+}

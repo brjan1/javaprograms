@@ -1,0 +1,10 @@
+package java001_solidrectangle;
+
+public class Solid_Rectangle {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

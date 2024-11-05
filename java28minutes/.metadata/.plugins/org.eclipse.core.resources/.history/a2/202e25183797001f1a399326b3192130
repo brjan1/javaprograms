@@ -1,0 +1,19 @@
+package java008_list_arraylist_choosing_iteration_approach_for_printing_and_delete;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class List_ArrayListt_Choosing_Iteration_Approach_For_Printing_Delete {
+
+	public static void main(String[] args) {
+		
+		List<String> words = List.of("Apple", "Bat", "Cat");
+		
+		List<String> wordsAl = new ArrayList<>(words);
+		
+		
+		
+
+	}
+
+}

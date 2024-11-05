@@ -1,0 +1,10 @@
+package chapter16_String_Characters_Programs;
+
+public class StringBuilder_append_methods {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

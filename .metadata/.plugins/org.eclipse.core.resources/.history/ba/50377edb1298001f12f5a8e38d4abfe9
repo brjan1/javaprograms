@@ -1,0 +1,13 @@
+package chapter16_String_Characters_Programs;
+
+public class StringBuilder_append_methods {
+
+	public static void main(String[] args) {
+		
+		Object objectRef = "hello";
+		String string = "goodbye";
+		
+
+	}
+
+}

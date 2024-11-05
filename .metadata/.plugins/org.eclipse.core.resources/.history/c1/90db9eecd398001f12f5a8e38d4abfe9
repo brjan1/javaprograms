@@ -1,0 +1,15 @@
+package chapter16_String_Characters_Programs;
+
+public class StringValidateInput {
+
+	public static void main(String[] args) {
+	
+		//validate first name
+		public static boolean validateFirstName(String firstName) {
+			
+			return true firstName.matches("[A-Z][a-zA-Z]*")
+		}
+ 
+	}
+
+}

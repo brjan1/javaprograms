@@ -1,0 +1,19 @@
+package stringinput;
+
+public class StringInputDemo3 {
+	
+	String str;
+	void StringFunc() {
+		
+		/**
+		 * String function
+		 */
+		
+	}
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

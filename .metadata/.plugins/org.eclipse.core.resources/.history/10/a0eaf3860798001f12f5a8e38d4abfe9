@@ -1,0 +1,12 @@
+package chapter16_String_Characters_Programs;
+
+public class ExtractingSubstringsFromStrings {
+
+	public static void main(String[] args) {
+		
+		String letters = "abcdefghijklmabcdefghijklm";
+		
+
+	}
+
+}

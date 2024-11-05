@@ -1,0 +1,17 @@
+package java002_listinterface_introduction_positionisking;
+
+import java.util.List;
+
+public class ListInterfaceIntroduction {
+	
+	/**
+	 * List
+	 * 1. cares about which position each object is in
+	 * 2. elements can be added in by specifying position - where should it be added in
+	 * 3. if element is added without specifying position - it is added at the end
+	 */
+	
+	List<String> words = List.of("Apple", "Bat", "Cat");
+	
+
+}

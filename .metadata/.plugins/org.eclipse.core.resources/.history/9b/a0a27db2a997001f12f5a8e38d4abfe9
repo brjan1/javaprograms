@@ -1,0 +1,23 @@
+package chapter16_String_Characters_Programs;
+
+public class StringCompare {
+
+	public static void main(String[] args) {
+		
+		/**
+		 * String compare methods:
+		 * equals
+		 * equalsIgnoreCase
+		 * compareTo
+		 * regionMatches
+		 * == to compare String objects
+		 */
+		
+		String s1 = new String("hello");
+		String s2 = "goodbye";
+		String s3 = "Happy Birthday";
+		String s4 = "happy birthday";
+
+	}
+
+}

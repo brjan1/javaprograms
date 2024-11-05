@@ -1,0 +1,20 @@
+package chapter16_String_Characters_Programs;
+
+public class StringCompare {
+
+	public static void main(String[] args) {
+		
+		/**
+		 * String compare methods:
+		 * equals
+		 * equalsIgnoreCase
+		 * compareTo
+		 * regionMatches
+		 * == to compare String objects
+		 */
+		
+		
+
+	}
+
+}

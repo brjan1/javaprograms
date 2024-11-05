@@ -1,0 +1,10 @@
+package java009_l_al_puzzles_typesafety_removingintegers;
+
+public class List_AL_TypeSafety_And_RemovingIntegers {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

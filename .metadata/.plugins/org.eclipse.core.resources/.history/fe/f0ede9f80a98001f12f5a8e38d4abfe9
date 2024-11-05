@@ -1,0 +1,11 @@
+package chapter16_String_Characters_Programs;
+
+public class String_valueOf_methods {
+
+	public static void main(String[] args) {
+		
+		char[] charArray = {'a', 'b', 'c', 'd', 'e', 'f'};
+
+	}
+
+}

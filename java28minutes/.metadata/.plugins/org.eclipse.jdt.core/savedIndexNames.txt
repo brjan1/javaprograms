@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+/home/br/Documents/java-programs/java28minutes/.metadata/.plugins/org.eclipse.jdt.core
+3573281693.index
+3052768648.index
+1865797976.index
+131124286.index
+3485238321.index

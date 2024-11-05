@@ -1,0 +1,13 @@
+
+public class Rough {
+
+	public static void main(String[] args) {
+		
+		int n=4;
+		for(int rows=1; rows<=n; rows++) {
+			
+		}
+
+	}
+
+}

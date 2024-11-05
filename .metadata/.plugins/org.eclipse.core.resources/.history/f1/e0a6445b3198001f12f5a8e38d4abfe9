@@ -1,0 +1,22 @@
+package chapter16_String_Characters_Programs;
+
+import java.util.Scanner;
+
+public class StaticCharMethods2_CharClass_Static_Conversion_Methods {
+
+	public static void main(String[] args) {
+		
+		Scanner scanner = new Scanner(System.in);
+		
+		//get radix
+		System.out.println("Please enter a radix: ");
+		int radix = scanner.nextInt();
+		
+		System.out.printf("Please choose one:\n1 --%s\n2 --%s\n", "Convert digit to character", "Convert character to digit");
+		int choice = scanner.nextInt();
+		
+		
+
+	}
+
+}

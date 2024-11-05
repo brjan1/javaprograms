@@ -1,0 +1,10 @@
+package java001_print_words_with_even_length;
+
+public class PrintWordsWithEvenLength {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

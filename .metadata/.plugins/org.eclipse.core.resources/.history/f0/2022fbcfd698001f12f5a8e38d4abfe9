@@ -1,0 +1,19 @@
+package chapter16_validate_input_demo;
+
+import java.util.Scanner;
+
+public class Validate {
+
+	public static void main(String[] args) {
+		
+		//get user input
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Please enter first name: ");
+		String firstName = scanner.nextLine();
+		System.out.println("Please enter last name: ");
+		String lastName = scanner.nextLine();
+		
+
+	}
+
+}

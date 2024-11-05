@@ -1,0 +1,20 @@
+package chapter16_String_Characters_Programs;
+
+public class StringMethods_replace_toLowerCase_toUpperCase_trim_toCharArray {
+
+	public static void main(String[] args) {
+		
+		String s1 = "hello";
+		String s2 = "GOODBYE";
+		String s3 = "   spaces   ";
+		
+		System.out.println("s1: " + s1);
+		System.out.println("s2: " + s2);
+		System.out.println("s3: " + s3);
+		
+		//replace method
+		System.out.println("replace 'l' with 'L' in s1 : " + s1.replace('l', 'L'));
+
+	}
+
+}
